@@ -9,6 +9,37 @@ This project is in it's fifth iteration thus applying a lot of findings and new 
 - VueJS with Vuetify, Pinia, etc. (Frontend)
 - FeathersJS (Backend)
 
+### My experience
+Whilst journying the landscape of programming I have stumbled across several languages, frameworks, etc. By now I have learned many things:
+
+Languages I manage to understand and write:
+- JavaScript/Typescript
+- Java
+- C/C++/C#
+- HTML (also CSS)
+
+Frameworks I used:
+- VueJS (Vuetify, VueX, Pinia, VueRouter) with both Composition and Options-API
+- FeathersJS
+- Express
+
+Databases I filled:
+- SQL-Based (MySQL, MariaDB)
+
+Documentations I have provided with:
+- MarkDown
+- LATEX
+
+Technologies I have used:
+- Docker (Docker compose)
+- Git (Github, Gitlab)
+- CloudFoundry
+
+Software I use to manage all the above:
+- VS-Code
+- Docker-Desktop
+- DBeaver
+- Commandline (Windows and Linux)
 
 <!--
 **DarkTank2/DarkTank2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
