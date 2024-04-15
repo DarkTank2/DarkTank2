@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there 👋
+
+A little bit about myself. I am a committed and young software developer who has gathered some theoretics in software design and programming at the technical university of Vienna. Besides working in that field for more than five years now I have also created software for the volunteering work in scouting. I am eager to create useful and user-friendly software, therefore I am challenging myself to new tasks and problems and always stride to educate myself on new topics of software design.
+
+### Current Projects
+🍽️ A tool for scout groups to handle small events
+This project is in it's fifth iteration thus applying a lot of findings and new ideas. It is a full stack web-app wholly written in TypeScript using frameworks like:
+- VueJS with Vuetify, Pinia, etc. (Frontend)
+- FeathersJS (Backend)
+
 
 <!--
 **DarkTank2/DarkTank2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
