@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-A little bit about myself. I am a committed and young software developer who has gathered some theoretics in software design and programming at the technical university of Vienna. Besides working in that field for more than five years now I have also created software for the volunteering work in scouting. I am eager to create useful and user-friendly software, therefore I am challenging myself to new tasks and problems and always stride to educate myself on new topics of software design.
+A little bit about myself. I am a committed and young software developer who has gathered a profound base of theoretical software design and also applied this knowledge at the technical university of Vienna. Besides working in that field for more than five years now I have also created software for the volunteering work in scouting. I am eager to write useful and user-friendly software, therefore I am challenging myself to new tasks and problems and always stride to educate myself on new topics of software design.
 
 ### Current Projects
 🍽️ A tool for scout groups to handle small events
