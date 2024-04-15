@@ -4,6 +4,7 @@ A little bit about myself. I am a committed and young software developer who has
 
 ### Current Projects
 🍽️ A tool for scout groups to handle small events
+
 This project is in it's fifth iteration thus applying a lot of findings and new ideas. It is a full stack web-app wholly written in TypeScript using frameworks like:
 - VueJS with Vuetify, Pinia, etc. (Frontend)
 - FeathersJS (Backend)
