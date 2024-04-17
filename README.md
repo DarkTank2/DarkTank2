@@ -15,8 +15,13 @@ Whilst journying the landscape of programming I have stumbled across several lan
 Languages I manage to understand and write:
 - JavaScript/Typescript
 - Java
-- C/C++/C#
+- C/C++
 - HTML (also CSS)
+
+System setup I used:
+- CMake
+- GCC
+- CTest
 
 Frameworks I used:
 - VueJS (Vuetify, VueX, Pinia, VueRouter) with both Composition and Options-API
