@@ -34,6 +34,7 @@ Databases I filled:
 Documentations I have provided with:
 - MarkDown
 - LATEX
+- Doxygen
 
 Technologies I have used:
 - Docker (Docker compose)
