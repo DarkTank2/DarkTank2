@@ -17,6 +17,7 @@ Languages I manage to understand and write:
 - Java
 - C/C++
 - HTML (also CSS)
+- C# (Basics)
 
 System setup I used:
 - CMake
@@ -25,11 +26,11 @@ System setup I used:
 
 Frameworks I used:
 - VueJS (Vuetify, VueX, Pinia, VueRouter) with both Composition and Options-API
-- FeathersJS
+- FeathersJS with Sequelize-ORM
 - Express
 
 Databases I filled:
-- SQL-Based (MySQL, MariaDB)
+- SQL-Based (PostgreSQL, MySQL, MariaDB)
 
 Documentations I have provided with:
 - MarkDown
