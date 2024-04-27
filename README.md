@@ -8,6 +8,7 @@ A little bit about myself. I am a committed and young software developer who has
 This project is in it's fifth iteration thus applying a lot of findings and new ideas. It is a full stack web-app wholly written in TypeScript using frameworks like:
 - VueJS with Vuetify, Pinia, etc. (Frontend)
 - FeathersJS (Backend)
+- PostgreSQL (Database)
 
 ### My experience
 Whilst journying the landscape of programming I have stumbled across several languages, frameworks, etc. By now I have learned many things:
